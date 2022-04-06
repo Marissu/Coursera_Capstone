@@ -1,0 +1,16 @@
+PROYECTO Final - Curso Capstone - Marisa Chaves  
+
+PROBLEMA: 
+
+Un cliente de Marbella que tiene 2 restaurantes japoneses en la provincia de Málaga quiere expandirse y abrir un nuevo restaurante en Madrid, está decidiendo previamente 
+qué barrio podría tener mayor acogimiento condicionado a 2 variables 
+1. El número de restaurantes japoneses que hay en cada  barrio 
+2. La población de cada barrrio. 
+
+Pasos para el desarrollo del proyecto:
+
+1.Búsqueda de todos los barrios de Madrid y sus coordenadas  (longitud y latitud).
+2. Creación de un dataframe, con los datos de los barrios y los restaurantes japoneses por barrio, datos extraídos de google maps.
+3. Agrupación mediante k-means con k=1 
+4.Visualización de los resultados para presentarselo al cliente. 
+
