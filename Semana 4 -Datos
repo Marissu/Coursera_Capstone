@@ -1,0 +1,14 @@
+IBM - Semana 4 Datos - Marisa Chaves 
+
+
+Datos del proyecto
+Los restaurantes Japoneses en Madrid
+
+Necesitamos datos sobre los restaurantes japoneses que hay en Madrid Capital por barrios para decidir dónde puede ser interesante montar uno, para ello:
+
+Dataframe con identificadores, municipio, latitud y longitud de los barrios de Madrid:
+Los datos del Dataframe salen de Google respecto a latitudes y longitudes y de wikipedia para conocer todos los barrios de la ciudad de Madrid, Creamos un archivo excel con toda la información 
+Pueden consultarse en Github Excell sobre Barrios Madrid y longitudes y Latitudes 
+
+Información de los restaurantes de la zona de Madrid a través de una conexión a foursquare. 
+
